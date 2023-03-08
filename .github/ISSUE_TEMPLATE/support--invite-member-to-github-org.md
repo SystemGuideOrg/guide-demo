@@ -1,7 +1,7 @@
 ---
 name: 'Support: Invite member to GitHub Org'
 about: If you need to invite a new Member within X Orga
-title: ''
+title: 'GitHub: Invite member '
 labels: support
 assignees: ''
 
