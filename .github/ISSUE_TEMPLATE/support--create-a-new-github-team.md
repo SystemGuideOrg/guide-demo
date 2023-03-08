@@ -1,9 +1,9 @@
 ---
-name: New GitHub Team
+name: 'Support: Create a new GitHub Team'
 about: If you need a new team within X Orga
 title: 'GitHub: New Team'
 labels: support
-assignees: FaGru3n
+assignees: ''
 
 ---
 

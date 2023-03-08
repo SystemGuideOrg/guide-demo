@@ -1,9 +1,9 @@
 ---
-name: Onboard new product
-about: If you need a hole new product within X Orga
+name: 'Support: Onboard a new product'
+about: If you need a complete new product within X Orga
 title: New Product
 labels: support
-assignees: FaGru3n
+assignees: ''
 
 ---
 
