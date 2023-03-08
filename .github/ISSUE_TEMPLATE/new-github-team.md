@@ -2,7 +2,7 @@
 name: New GitHub Team
 about: If you need a new team within X Orga
 title: 'GitHub: New Team'
-labels: ''
+labels: support
 assignees: FaGru3n
 
 ---
