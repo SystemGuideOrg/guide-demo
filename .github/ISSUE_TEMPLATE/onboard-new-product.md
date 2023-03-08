@@ -1,6 +1,6 @@
 ---
 name: Onboard new product
-about: If you need a hole new prodcut within X Orga
+about: If you need a hole new product within X Orga
 title: New Product
 labels: new_product
 assignees: FaGru3n
